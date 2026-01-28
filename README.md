@@ -1,7 +1,7 @@
 # Hi there, I'm Kanokphon Fufon (Nun) 👋
 
 [![IoT Developer](https://img.shields.io/badge/IoT-Developer-blue?style=for-the-badge&logo=internetofthings)](https://github.com/Super-Nun)
-[![IoT Engineer](https://img.shields.io/badge/IoT%20Engineer-blue?style=for-the-badge&logo=internetofthings)](https://github.com/Super-Nun)
+[![IoT Engineer](https://img.shields.io/badge/Engineer-blue?style=for-the-badge&logo=internetofthings)](https://github.com/Super-Nun)
 [![Industrial AI](https://img.shields.io/badge/Focus-Industrial%20AI-orange?style=for-the-badge&logo=openai)](https://github.com/Super-Nun)
 [![Digital Transformation](https://img.shields.io/badge/Driving-DX-success?style=for-the-badge&logo=rocket)](https://github.com/Super-Nun)
 
