@@ -4,6 +4,7 @@
 [![Engineer](https://img.shields.io/badge/Engineer-8F0000?style=for-the-badge&logo=internetofthings)](https://github.com/Super-Nun)
 [![Industrial AI](https://img.shields.io/badge/Focus-Industrial%20AI-orange?style=for-the-badge&logo=openai)](https://github.com/Super-Nun)
 [![Digital Transformation](https://img.shields.io/badge/Driving-DX-success?style=for-the-badge&logo=rocket)](https://github.com/Super-Nun)
+[![Training & Coaching](https://img.shields.io/badge/Training%20%26%20Coaching-6f42c1?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/Super-Nun)
 
 ### 🚀 **Connecting the Physical World with Digital Intelligence**
 
