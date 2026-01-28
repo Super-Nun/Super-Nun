@@ -27,20 +27,6 @@ My passion lies in integrating technology to solve real-world problems, driving 
 
 ---
 
-### 🏆 **Featured Projects**
-
-#### 🚛 **Enterprise GPS Tracking System (Royal Irrigation Department Project)**
-* **Role:** Full Stack IoT Implementation
-* **Stack:** Teltonika FMC920, Traccar, Docker, Linux, MariaDB
-* **Impact:** Developed a scalable fleet tracking system with 24/7 stability using Beszel for monitoring and Fradelg for automated backups.
-
-#### 🏭 **Smart Pipe Manufacturing with IoT & AI**
-* **Role:** Researcher & Developer
-* **Stack:** TinyML, TensorFlow Lite, C/C++, Python
-* **Impact:** Integrated sensor networks to monitor equipment wear and deployed ML models on edge hardware to optimize production efficiency.
-
----
-
 ### 📚 **Publications**
 * [**Smart Electric Resistance Welding based on Artificial Intelligence (AI) based on Real-Time Adaptive Statistical Features Completed with Bibliometric Analysis**](https://www.researchgate.net/publication/391497193_Smart_Electric_Resistance_Welding_based_on_Artificial_Intelligence_AI_based_on_Real-Time_Adaptive_Statistical_Features_Completed_with_Bibliometric_Analysis)
 * [**Integrating CDIO and Problem Based Learning Frameworks for Industrial IoT Training**](https://www.researchgate.net/publication/383839889_Integrating_CDIO_and_Problem_Based_Learning_Frameworks_for_Industrial_Internet_of_things_Training_Course_Development) 
