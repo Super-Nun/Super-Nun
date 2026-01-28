@@ -41,8 +41,8 @@ My passion lies in integrating technology to solve real-world problems, driving 
 ---
 
 ### 📚 **Publications**
-* [**Smart Electric Resistance Welding based on Artificial Intelligence (AI) based on Real-Time Adaptive Statistical Features Completed with Bibliometric Analysis**](https://www.researchgate.net/publication/391497193_Smart_Electric_Resistance_Welding_based_on_Artificial_Intelligence_AI_based_on_Real-Time_Adaptive_Statistical_Features_Completed_with_Bibliometric_Analysis) - *ASEAN Journal of Science and Engineering (Scopus Q1)*
-* [**Integrating CDIO and Problem Based Learning Frameworks for Industrial IoT Training**](https://www.researchgate.net/publication/383839889_Integrating_CDIO_and_Problem_Based_Learning_Frameworks_for_Industrial_Internet_of_things_Training_Course_Development) - *ISTEM-Ed 2024*
+* [**Smart Electric Resistance Welding based on Artificial Intelligence (AI) based on Real-Time Adaptive Statistical Features Completed with Bibliometric Analysis**](https://www.researchgate.net/publication/391497193_Smart_Electric_Resistance_Welding_based_on_Artificial_Intelligence_AI_based_on_Real-Time_Adaptive_Statistical_Features_Completed_with_Bibliometric_Analysis)
+* [**Integrating CDIO and Problem Based Learning Frameworks for Industrial IoT Training**](https://www.researchgate.net/publication/383839889_Integrating_CDIO_and_Problem_Based_Learning_Frameworks_for_Industrial_Internet_of_things_Training_Course_Development) 
 
 ---
 
@@ -57,5 +57,5 @@ My passion lies in integrating technology to solve real-world problems, driving 
 
 ### 📫 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanokphon-fufon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanokphon-fu-6443ab318)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanokphon.fu@gmail.com)
