@@ -1,4 +1,4 @@
-# Hi there, I'm Kanokphon Fufon (Nun) 👋
+# Hi there, I'm an IoT Dev. passionate about IoT Technology & Its Ecosystem 👋
 
 [![IoT Developer](https://img.shields.io/badge/IoT-Developer-blue?style=for-the-badge&logo=internetofthings)](https://github.com/Super-Nun)
 [![Engineer](https://img.shields.io/badge/Engineer-8F0000?style=for-the-badge&logo=internetofthings)](https://github.com/Super-Nun)
@@ -41,8 +41,8 @@ My passion lies in integrating technology to solve real-world problems, driving 
 ---
 
 ### 📚 **Publications**
-* **Smart Electric Resistance Welding based on Artificial Intelligence (AI)...** - *ASEAN Journal of Science and Engineering (Scopus Q1)*
-* **Integrating CDIO and Problem Based Learning Frameworks for Industrial IoT Training** - *ISTEM-Ed 2024*
+* [**Smart Electric Resistance Welding based on Artificial Intelligence (AI) based on Real-Time Adaptive Statistical Features Completed with Bibliometric Analysis**](https://www.researchgate.net/publication/391497193_Smart_Electric_Resistance_Welding_based_on_Artificial_Intelligence_AI_based_on_Real-Time_Adaptive_Statistical_Features_Completed_with_Bibliometric_Analysis) - *ASEAN Journal of Science and Engineering (Scopus Q1)*
+* [**Integrating CDIO and Problem Based Learning Frameworks for Industrial IoT Training**](https://www.researchgate.net/publication/383839889_Integrating_CDIO_and_Problem_Based_Learning_Frameworks_for_Industrial_Internet_of_things_Training_Course_Development) - *ISTEM-Ed 2024*
 
 ---
 
