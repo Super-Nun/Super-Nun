@@ -35,10 +35,10 @@ My passion lies in integrating technology to solve real-world problems, driving 
 
 ### 📊 **GitHub Stats**
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Super-Nun&show_icons=true&theme=radical&hide_border=true" height="150" alt="Super-Nun's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Nun&layout=compact&theme=radical&hide_border=true" height="150" alt="Super-Nun's Top Languages" />
-</div>
+</p>
 
 ---
 
