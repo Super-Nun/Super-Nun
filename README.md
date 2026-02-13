@@ -37,8 +37,8 @@ My passion lies in integrating technology to solve real-world problems, driving 
 
 <p align="center">
   <img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=Super-Nun&show_icons=true&&&hide_title=true" />
-  <img src="https://github-readme-stats1.yihong0618.vercel.app/api?username=Super-Nun&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="150" alt="Super-Nun's Stats" />
-  <img src="https://github-readme-stats1.yihong0618.vercel.app/api/top-langs/?username=Super-Nun&layout=compact&theme=radical&hide_border=true" height="150" alt="Super-Nun's Top Languages" />
+  <img src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=Super-Nun&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="150" alt="Super-Nun's Stats" />
+  <img src="https://github-readme-stats-1.yihong0618.vercel.app/api/top-langs/?username=Super-Nun&layout=compact&theme=radical&hide_border=true" height="150" alt="Super-Nun's Top Languages" />
   
 </p>
 
