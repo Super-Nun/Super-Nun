@@ -8,7 +8,7 @@
 
 ### 🚀 **Connecting the Physical World with Digital Intelligence**
 
-I am an **IoT Developer** with a strong background in **Industrial AI research** and **Edge Computing**. I combine expertise in TinyML, data analysis, and backend infrastructure to build robust, scalable end-to-end IoT solutions. 
+I'm an **IoT Developer** interested in **Industrial AI research** and **Edge Computing**. I combine expertise in TinyML, data analysis, and backend infrastructure to build robust, scalable end-to-end IoT solutions. 
 
 My passion lies in integrating technology to solve real-world problems, driving **Digital Transformation (DX)** for both industrial efficiency and social impact.
 
